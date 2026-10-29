@@ -1,4 +1,4 @@
-﻿# Advanced Algorithmic Techniques (TAIS) - UCM
+﻿# Advanced Algorithmic Techniques (TAIS)
 
 This repository contains my solutions to the weekly online judge algorithmic challenges for the **Software Engineering Algorithmic Techniques (TAIS)** course at Universidad Complutense de Madrid (UCM).
 
