@@ -14,13 +14,13 @@ The exercises focus on the design, analysis, and implementation of efficient dat
 	
 ## 📚 Course Syllabus & Solutions
 
-*   **[Week 1]** Advanced Search Trees (BST, AVL Trees)
-*   **[Week 2]** Priority Queues and Heaps
-*   **[Week 3]** Heapsort and Variable Priority Queues
-*   **[Week 4]** Undirected Graphs and Traversals (BFS, DFS)
-*   **[Week 5]** Directed Graphs and Traversals (Topological Sort)
-*   **[Week 6]** Disjoint Sets, Weighted Graphs, and Minimum Spanning Trees (Prim, Kruskal)
-*   **[Week 7]** Weighted Digraphs and Shortest Path Algorithms (Dijkstra)
+*   **-** Advanced Search Trees (BST, AVL Trees)
+*   **-** Priority Queues and Heaps
+*   **-** Heapsort and Variable Priority Queues
+*   **-** Undirected Graphs and Traversals (BFS, DFS)
+*   **-** Directed Graphs and Traversals (Topological Sort)
+*   **-** Disjoint Sets, Weighted Graphs, and Minimum Spanning Trees (Prim, Kruskal)
+*   **-** Weighted Digraphs and Shortest Path Algorithms (Dijkstra)
 
 ## 📝 Note on Problem Statements
 While all the code, variable names, and documentation in this repository are written in English, the original problem statements provided by the online judge are in Spanish.
